@@ -26,7 +26,7 @@ Ubuntu 22.04 기반의 개발용 Docker 이미지입니다. 개발자 계정과 
 ### 1. 이미지 빌드
 
 ```bash
-docker build -t mydocker .
+docker build -t geewonny/ubuntu .
 ```
 
 ### 2. 컨테이너 실행
